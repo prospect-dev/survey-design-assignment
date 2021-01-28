@@ -1,6 +1,6 @@
 # Survey Design Assignment
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/prospect-dev/survey-design-assignment/main?filepath=survey_design.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/zenodo/10.5281/zenodo.4476504/?urlpath=lab/tree/survey_design.ipynb)
 [![DOI](https://zenodo.org/badge/333569274.svg)](https://zenodo.org/badge/latestdoi/333569274)
 
 
